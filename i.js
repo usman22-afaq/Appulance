@@ -258,9 +258,3 @@ app.post("/api/driversignup", function (req, res) {
 // });
 
 
-
-i.listen(server , () => {
-
-  console.log(`listening to the port at ${server}`)
-
-})
